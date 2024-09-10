@@ -20,13 +20,13 @@
 如果你的目标是游乐项目，最佳去处是坐大巴到FirstBahn，坐缆车上山。缆车有三站，每一站有不同的项目。最后一站有滑翔伞和高空滑索。还可以有惊无险地在悬崖漫步一圈。中间一站有山地三轮车，适合小朋友。注意每天下午两点就可能售罄。所以得早一点去。
 
 <img src=pics/paraglide.png width=400>
-<img src=pics/cliffwalk.jpg width=400>
 
 如果你的乐趣在登山，可以坐火车到Kleine Scheidegg，然后爬到艾格山墙。一路近距离欣赏少女峰的冰川，中间还有一个蔚蓝色的高山湖。另外一个颇受欢迎的山径是Schynige Platte。需要从格林德瓦坐火车到Widerswii，然后倒一趟火车到Schynige Platte山顶。注意去Schynige Platte山顶的是老式火车，相对较慢。好处是你可以伸头到车厢外，拍一张和蓝天雪山翡翠湖的美美合影。
 
 <img src=pics/hiking1.jpg width=400>
 <img src=pics/hiking2.jpg width=400>
 <img src=pics/hiking-lake.jpg>
+<img src=pics/hiking-felix.jpg>
 
 想看瀑布的话，可以坐火车到劳特布龙嫩。这个小镇附近有山崖上落下来70多个瀑布和小河。从这里还可以坐缆车上山，然后转火车去Murren。那里是另一个爬山的好去处。
 
